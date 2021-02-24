@@ -6,3 +6,5 @@ I'm Ryan. I am self-taught programmer in a variety of languages including Python
 
 ![](https://komarev.com/ghpvc/?username=ItzMeRyu)
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeryu&layout=compact&theme=dark" alt="itzmeryu" /></p>
+
