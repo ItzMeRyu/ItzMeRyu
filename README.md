@@ -1,10 +1,2 @@
-# Hi, I'm *Ryan*
-
-I'm Ryan. I am self-taught programmer in a variety of languages including Python, JavaScript and so on. I wouldn't call myself smart or even average in any kind. I'm a fucking dumbass but hey the shit I make works usually
-
-![github statistics](https://github-readme-stats.vercel.app/api?username=ItzMeRyu&show_icons=true&theme=tokyonight)
-
-![](https://komarev.com/ghpvc/?username=ItzMeRyu)
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeryu&layout=compact&theme=dark" alt="itzmeryu" /></p>
-
+![Stats](https://github-readme-stats.vercel.app/api?username=ItzMeRyu&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMeRyu&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
