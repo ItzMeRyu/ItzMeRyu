@@ -29,4 +29,4 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 
 ## Social Media
 
-![Discord](https://discord.c99.nl/widget/theme-3/751114086514688015.png)
+![Discord](https://discord.c99.nl/widget/theme-3/RYUGANSS.png)
