@@ -4,6 +4,12 @@
 My name is Ryuganss, I'm From Indonesia, Living in Banten, Jawa Barat.
 **i'm just a student, still learning programing:)**
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Python, JavaScript, C# And C++
+
+- 🌱 I'm currently learning **Something**
+
 ## My GitHub Statistics
 
 [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=itzmeryu&show_icons=true&theme=dark&count_private=true)](https://github.com/itzmeryu)
