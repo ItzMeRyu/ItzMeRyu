@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=itzmeryu&color=blue)
 
 My name is Ryuganss, I'm From Indonesia, Living in Banten, Jawa Barat.
+**i'm just a student, still learning programing:)**
 
 ## My GitHub Statistics
 
