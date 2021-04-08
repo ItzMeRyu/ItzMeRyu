@@ -1,7 +1,7 @@
 # Hello,Bro! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=itzmeryu&color=blue)
 
-
+My name is Ryuganss, I'm From Indonesia, Living in Banten, Jawa Barat.
 
 ## My GitHub Statistics
 
