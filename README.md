@@ -10,11 +10,13 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently learning **Something**
 
+- 🎮 My Fav Game: Growtopia, Mobile Legends Bang Bang, Gta Samp
+
 - 📫 How to reach me:
      - mail: 
      - discord: 
 
-- 🎨 Hobbys: cake, juice, pizza, chess
+- 🎨 Hobby: Coding, Solve Problem, FootBall
      
 - ⚡ Fun fact: I am someone..... 😜
 
